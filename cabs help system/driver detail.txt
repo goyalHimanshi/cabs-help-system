@@ -1,0 +1,12 @@
+driver id  autoincrement  primary key
+
+drivername varchar(30)
+address varchar(30).
+emailid varchar(30).
+contactno varchar(30)
+experince varchar(30),
+no of seats  varchar(30),
+vehicleno varchar(30),
+gender varchar(30),
+idproof varchar(30),
+password varchar(30)

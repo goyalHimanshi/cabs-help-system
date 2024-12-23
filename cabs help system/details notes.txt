@@ -1,0 +1,14 @@
+userid int primary key  auto_increment
+
+username varchar(30),
+password varchar(30),
+emailid
+contactno
+gender 
+address
+city
+id proof----------
+id no------------
+table users
+
+Registered user....
